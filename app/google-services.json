@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892271360068",
+    "project_id": "quizapp-b7443",
+    "storage_bucket": "quizapp-b7443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892271360068:android:3125133e43be1902006411",
+        "android_client_info": {
+          "package_name": "com.neatroots.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjw4pql1mFQMXWqDp2i9sybgxNSBebATg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
